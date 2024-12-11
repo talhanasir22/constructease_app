@@ -1,5 +1,4 @@
-# constructease_app
-
+# ConstructEase
 A new Flutter project.
 
 ## Getting Started
